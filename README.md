@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musinskicode
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on idk yet
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS, & JavaScript
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me ...
 
 <!---
